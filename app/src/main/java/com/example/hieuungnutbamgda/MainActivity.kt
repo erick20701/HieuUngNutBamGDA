@@ -30,6 +30,6 @@ class MainActivity : AppCompatActivity() {
         )
         binding.btnToa.startAnimation(m1Anim)
         binding.xoay.startAnimation(m2Anim)
-        binding.xoay2.startAnimation(m3Anim)
+//        binding.xoay2.startAnimation(m3Anim)
     }
 }
